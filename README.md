@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vaiswap-logo.png" alt="Vaiswap Logo" width="300"/>
+  <img src="https://github.com/Vaiswap-Lab/Vaiswap-Core/blob/4f2c991481fd5dbad555520ed984804c31ba2a44/Vaiswap%20Core.png" alt="Vaiswap Logo" width="400"/>
 </p>
 
 ---
